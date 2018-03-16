@@ -3,14 +3,11 @@
   <fullName>Lakshmi Ravipati</fullName>
   <properties>
     <jenkins.security.ApiTokenProperty>
-      <apiToken>{AQAAABAAAAAwkV5RvxoknKhYRrmnQEQ0ZK2jNfukmPtyhJo+XXvZTPYxusQayfC4PeX/x0T/eOIqMnFewXfQapUPV4bTDLz1ug==}</apiToken>
+      <apiToken>{AQAAABAAAABwTV7xsTXNA8kW+U0kvsZcnexniANDqebdgYX+WlxEp6QacaOL1ogYbSrRmoo6//MyCLn9ABuKzKz8zMpV++5pTUIlDhbb+fcE9gQO384fOCQ30CWbe01BaG/mpb1IOQvgDUpEhG0JOUGMVvd2fEALnJtvDnEjh5MB7J5E4PFsVdA=}</apiToken>
     </jenkins.security.ApiTokenProperty>
     <com.cloudbees.plugins.credentials.UserCredentialsProvider_-UserCredentialsProperty plugin="credentials@2.1.16">
       <domainCredentialsMap class="hudson.util.CopyOnWriteMap$Hash"/>
     </com.cloudbees.plugins.credentials.UserCredentialsProvider_-UserCredentialsProperty>
-    <hudson.plugins.emailext.watching.EmailExtWatchAction_-UserProperty plugin="email-ext@2.61">
-      <triggers/>
-    </hudson.plugins.emailext.watching.EmailExtWatchAction_-UserProperty>
     <hudson.model.MyViewsProperty>
       <views>
         <hudson.model.AllView>
@@ -37,5 +34,8 @@
     <hudson.tasks.Mailer_-UserProperty plugin="mailer@1.20">
       <emailAddress>wikivoks@gmail.com</emailAddress>
     </hudson.tasks.Mailer_-UserProperty>
+    <jenkins.security.LastGrantedAuthoritiesProperty>
+      <timestamp>0</timestamp>
+    </jenkins.security.LastGrantedAuthoritiesProperty>
   </properties>
 </user>
